@@ -10,7 +10,7 @@ MODULES = [
     'postproc',
     'store',
     'visualizer',
-    'voting',
+    'voting'
 ]
 BASEURL = 'http://localhost:8000'
 APIS = {
